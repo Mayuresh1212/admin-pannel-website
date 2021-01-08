@@ -1,0 +1,87 @@
+body{
+    background: #f4f4f4;
+}
+
+
+
+/* -----------Custome css------------- */
+.bg{
+    background: rgb(71, 1, 71) !important;
+    color: #fff !important;
+}
+
+/* -----------Navbar Starts Here------------- */
+
+.navbar{
+    min-height: 33px !important;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+.navbar a{
+    color: #ffffff !important;
+}
+
+
+/* -----------Header Starts Here------------- */
+#header{
+    background: #333333;
+    color: #fff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+#header h1{
+    padding-top: 10px;
+}
+#header .create{
+    padding-top: 30px;
+}
+
+
+/* -----------Breadcrumb Starts Here------------- */
+.breadcrumb{
+    background: #cccccc;
+    color: #333333;
+}
+.breadcrumb a{
+    color: #333333;
+}
+
+
+
+.progress-bar{
+    background: #333333;
+}
+
+
+.dash-box{
+    text-align: center;
+}
+.panel-body i{
+    margin-right: 10px;
+}
+
+
+#footer{
+    background: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+
+#login{
+    margin: 45px 0;
+    padding: 30px;
+}
+
+#login > div{
+    margin: 25px 0;
+}
+#login > div > label{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+#login > div > input{
+    height: 40px;
+}
